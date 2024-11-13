@@ -1,0 +1,15 @@
+package lengthconvert;
+
+/**
+ *Maximus Weston
+ * 11/13/2024
+ * Length onverter
+ */
+public class LengthConvert {
+
+    public static void main(String[] args) {
+        ConvertGUI gui = new ConvertGUI();
+        gui.setVisible(true);
+    }
+    
+}
